@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oru1UqpfmUJBJbJdG1WB3ub5TFpuVXVeAhZU1a+pYS0VVLMsDDTkhU8Q+eDdbbwpGt0k/fDzkTRkT3KFw2c04g==",
+  "success": true,
+  "projectFilePath": "D:\\Epam\\OOP\\Lab3\\Lab3\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18141\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
