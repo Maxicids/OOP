@@ -1,0 +1,13 @@
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.exe
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.deps.json
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.json
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.runtimeconfig.dev.json
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.dll
+D:\Epam\OOP\Lab10\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab9.pdb
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.csprojAssemblyReference.cache
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfoInputs.cache
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.AssemblyInfo.cs
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.csproj.CoreCompileInputs.cache
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.dll
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.pdb
+D:\Epam\OOP\Lab10\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab9.genruntimeconfig.cache

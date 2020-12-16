@@ -1,0 +1,3 @@
+Log has been created at 1/1/0001 12:00:00 AM1/1/0001 12:00:00 AM : An instance of the class MMVLog has been created
+1/1/0001 12:00:00 AM : An instance of the class
+1/1/0001 12:00:00 AM : MMVLog

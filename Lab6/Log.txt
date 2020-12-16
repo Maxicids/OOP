@@ -1,0 +1,5 @@
+Log exceptions: 
+Exception of type 'Lab6.NullExceptions' was thrown.11/14/2020 2:11:56 PM
+Exception of type 'Lab6.EmptyExceptions' was thrown.11/14/2020 2:11:56 PM
+Exception of type 'Lab6.ConstructorExceptions' was thrown.11/14/2020 2:11:56 PM
+

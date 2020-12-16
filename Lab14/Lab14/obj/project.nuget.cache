@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cngsOo4xPIFrhxIDKD84oZcylbieDlXgpk/CyCzL+66Wf9ZzjnINhLU1BLXRC+c9CTfoHKYXrFRkw66zI8Yjkg==",
+  "success": true,
+  "projectFilePath": "D:\\Epam\\OOP\\Lab14\\Lab14\\Lab14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18141\\.nuget\\packages\\soapformatter\\1.0.11\\soapformatter.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

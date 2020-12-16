@@ -1,0 +1,300 @@
+[
+  
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "2ba85"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 20,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "0aaad"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 20,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "cac97"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "8723d"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "b12cc"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "4c873"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "50d64"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 21,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "ac150"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "fb256"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "8c354"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "130da"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "cdb1c"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "595fd"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "486a6"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "549d2"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 21,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "a71e7"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "90d49"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "69b11"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "07149"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 20,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "28b0b"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "02fa8"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "dcecb"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 22,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "2df37"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "83162"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "173c6"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "ca089"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "a742c"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 20,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "6dcb7"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 19,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "2132e"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "44f87"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "22f53"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 18,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "0964e"
+  },
+  {
+    "__type": "Student:#Lab14",
+    "Age": 17,
+    "Group": {
+      "<Name>k__BackingField": "Group 5",
+      "<Number>k__BackingField": 5
+    },
+    "Name": "9a806"
+  }
+]

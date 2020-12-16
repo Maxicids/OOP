@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab6;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -24,6 +25,20 @@ namespace Lab5
             this.numberOfCorners = NumberOfCorners.Four;
             this.additionalInfo.color = "blue" ;
             this.additionalInfo.Dimension = "2d";
+        }
+        public Rectangle(int height)
+        {
+            this.numberOfCorners = NumberOfCorners.Four;
+            this.additionalInfo.color = "blue";
+            this.additionalInfo.Dimension = "2d";
+            if (height > 0)
+            {
+                this.Height = height;
+            }
+            else
+            {
+                throw new ConstructorExceptions("The height can't be negative");
+            }
         }
 
         int width = 1;

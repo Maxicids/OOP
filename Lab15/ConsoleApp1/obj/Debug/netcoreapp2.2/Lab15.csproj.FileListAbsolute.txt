@@ -1,0 +1,12 @@
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.csprojAssemblyReference.cache
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.AssemblyInfoInputs.cache
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.AssemblyInfo.cs
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.csproj.CoreCompileInputs.cache
+D:\Epam\OOP\Lab15\ConsoleApp1\bin\Debug\netcoreapp2.2\Lab15.deps.json
+D:\Epam\OOP\Lab15\ConsoleApp1\bin\Debug\netcoreapp2.2\Lab15.runtimeconfig.json
+D:\Epam\OOP\Lab15\ConsoleApp1\bin\Debug\netcoreapp2.2\Lab15.runtimeconfig.dev.json
+D:\Epam\OOP\Lab15\ConsoleApp1\bin\Debug\netcoreapp2.2\Lab15.dll
+D:\Epam\OOP\Lab15\ConsoleApp1\bin\Debug\netcoreapp2.2\Lab15.pdb
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.dll
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.pdb
+D:\Epam\OOP\Lab15\ConsoleApp1\obj\Debug\netcoreapp2.2\Lab15.genruntimeconfig.cache

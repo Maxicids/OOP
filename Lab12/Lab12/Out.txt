@@ -1,0 +1,5 @@
+Build name, where object defined: Lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Has a public constructor
+Public methods: get_Height set_Height get_Width set_Width get_Bl printWidth printHeight printObj status area HeightChange perimeter numberOfRectangles Equals GetHashCode ToString sas GetType 
+Public interfaces: Irec 
+Methods: set_Height set_Width 
